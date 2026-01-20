@@ -29,10 +29,6 @@ A secure and user-friendly crypto trading platform that allows users to view rea
 * Node.js
 * Express.js
 
-**Database**
-
-* MongoDB
-
 **APIs**
 
 * Cryptocurrency price API (e.g., CoinGecko / CoinMarketCap)
